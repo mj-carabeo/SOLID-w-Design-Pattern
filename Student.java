@@ -7,8 +7,12 @@ public class Student {
         this.borrowedResources = new ArrayList<>();
     }
 
-    public void borrowResource(LibraryResource resource) {
-        resource.borrow(this);
+    public void borrowResource(LibraryResource resource, String title) {
+        resource.borrow(this, title);
         borrowedResources.add(resource);
+    }
+
+    public List<LibraryResource> getBorrowedResources() {
+        return borrowedResources;
     }
 }
