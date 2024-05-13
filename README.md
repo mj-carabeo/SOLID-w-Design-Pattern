@@ -13,3 +13,4 @@ Create a repository in your GitHub account. Put your solution there. In the read
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 Submit your repository link here.
+![SOLID w_ Design Pattern](https://github.com/mj-carabeo/SOLID-w-Design-Pattern/assets/90553736/bd446a12-e4bc-4cb6-a4cc-bd4d85d42243)
